@@ -1,0 +1,2 @@
+# autoparry
+for any game 

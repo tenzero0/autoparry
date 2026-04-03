@@ -1,6 +1,4 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
+
 -- start pack
 local player = game.Players.LocalPlayer
 local UIS = game:GetService("UserInputService")
